@@ -1,0 +1,12 @@
+{
+  "table_name": "schema.table",
+  "text_fields": {
+    "id": "id",
+    "country": "country",
+    "city": "city"
+  },
+  "number_fields":{
+    "latitude": "latitude",
+    "longitude": "longitude"
+  } 
+}
